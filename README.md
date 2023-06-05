@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Multi-Label Sentiment Analysis</title>
-</head>
 <body>
   <h1>Multi-Label Sentiment Analysis</h1>
   <p>Este repositorio contiene el código y los recursos necesarios para implementar un modelo de clasificación de sentimientos en comentarios extraídos de diversas redes sociales.</p>
@@ -27,4 +22,4 @@
   <h2>Indicador/KPI de satisfacción global</h2>
   <p>Se proporciona el archivo <code>satisfaction_indicator.py</code> que contiene el código para construir un indicador/KPI para medir el nivel de satisfacción global basado en la clasificación de los comentarios.</p>
 </body>
-</html>
+
